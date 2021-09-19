@@ -17,10 +17,11 @@ Data Indeks Harga Konsumen (IHK) yang diperoleh dari Publikasian Badan Pusat Sta
     
 ## Akurasi Peramalan
 Berdasarkan nilai MAPE yang diperoleh pada tahapan akurasi peramalan didapatkan nilai MAPE sebesar 0.62%
-![image](https://user-images.githubusercontent.com/63284781/133929872-b7c9f2b9-385e-4c2e-a1b0-973842c3ffbd.png)
+
+![image](https://user-images.githubusercontent.com/63284781/133930162-51564c4b-800d-4da0-a937-05d6c443f3fa.png)
 
 
 ## Testing
 Hasil Peramalan Januari sampai Desember 2020
-![Uploading image.png…]()
 
+![image](https://user-images.githubusercontent.com/63284781/133929872-b7c9f2b9-385e-4c2e-a1b0-973842c3ffbd.png)
